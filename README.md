@@ -1,60 +1,76 @@
-# Valerij Baturin
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png">
+  <img src="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png" alt="Valerij Baturin — backend engineering" width="100%">
+</picture>
 
-**Java / Kotlin Backend Developer**
+**Java / Kotlin Backend Developer** &nbsp; · &nbsp; English / [Русский](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.ru.md)
 
-[Русская версия](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.ru.md) · [Email](mailto:valerij@baturin03.ru) · [Telegram](https://t.me/Pe4EHKA)
+I build backend systems for banking and business automation: from business workflows and service integrations to the infrastructure that keeps them observable in production.
 
-I build backend systems for banking and business automation. My focus is on service integrations, event-driven architecture, and the reliability of distributed systems.
+### Currently
 
-Currently at **WB Bank**, working on banking workflows, credit-rating services, and referral programs. Studying Mathematics and Computer Science at **Central University**, with a focus on backend development.
+**WB Bank** · Java Developer  
+Banking workflows, credit assessment, external data integrations, and referral-program services.
 
-> Most of my day-to-day development takes place in company-managed, self-hosted GitLab instances. This profile is a public overview of my background; the repositories here represent only part of my experience.
+Alongside engineering, I study Mathematics and Computer Science at **Central University**, focusing on backend development.
 
-## Engineering focus
+> **Where the work happens**  
+> Most of my current development lives in company-managed, self-hosted GitLab instances. This GitHub profile is an overview of my background; public activity here reflects only part of my work.
 
-- **Backend architecture:** Spring-based services, REST APIs, asynchronous messaging, and integrations between business systems.
-- **Reliability and delivery:** observability with metrics and tracing, containerized deployments, and CI/CD pipelines.
-- **Business automation:** banking processes, telecom ERP and billing, and internal tools for manufacturing teams.
-- **Teamwork and applied AI:** code review, mentoring, cross-functional coordination, and integrating RAG and LLM capabilities into backend services.
+### From business logic to production
 
-## Technology stack
-
-| Area | Technologies |
+| Design & build | Connect & operate |
 | :--- | :--- |
-| Languages & frameworks | Java 8–21, Kotlin, Spring Boot, Spring MVC, Spring Data, Spring Security |
-| Data & persistence | PostgreSQL, MySQL, Redis, SQL, JDBC, JPA / Hibernate, Liquibase |
-| Messaging & integration | Kafka, ActiveMQ, REST APIs |
-| Identity & access | Keycloak, OAuth 2.0, OpenID Connect |
-| Delivery & infrastructure | Docker, Compose, Swarm, Kubernetes, CI/CD, Git |
-| Observability | Prometheus, Grafana, OpenTelemetry |
-| Testing | JUnit, Mockito, Spring Test |
+| Spring-based services and REST APIs | Kafka and asynchronous messaging |
+| Banking, telecom, and manufacturing workflows | Authentication and integrations between business systems |
+| Data models, persistence, and migrations | CI/CD, containers, metrics, and distributed tracing |
 
-## Experience
+I also work on **RAG and LLM integration**, review code, mentor developers, and coordinate work across backend, frontend, DevOps, and 1C teams.
 
-**WB Bank · Java Developer**  
-January 2026 – present  
+### Engineering toolkit
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Core** | Java 8–21 · Kotlin · Spring Boot · MVC · Data · Security |
+| **Data** | PostgreSQL · MySQL · Redis · JDBC · JPA / Hibernate · Liquibase |
+| **Integration** | Kafka · ActiveMQ · REST · Keycloak · OAuth 2.0 · OpenID Connect |
+| **Delivery** | Docker · Compose · Swarm · Kubernetes · CI/CD |
+| **Quality & visibility** | JUnit · Mockito · Spring Test · Prometheus · Grafana · OpenTelemetry |
+
+### Background
+
+<details>
+<summary><strong>Experience</strong> — banking, telecom, and internal business systems</summary>
+
+#### WB Bank · Java Developer
+January 2026 – present
+
 Banking BPM platform, credit assessment and external data integrations, and referral-program services.
 
-**ООО «Информационное взаимодействие» · Lead Java Developer**  
-December 2024 – December 2025  
-Microservice architecture, service discovery and API gateway integration, CI/CD, Keycloak authentication, and AI/RAG integration. Code review and developer mentoring.
+#### ООО «Информационное взаимодействие» · Lead Java Developer
+December 2024 – December 2025
 
-**Ufanet · Java Developer**  
-February 2025 – September 2025  
+Microservice architecture, service discovery and API gateways, CI/CD, Keycloak authentication, and AI/RAG integration. Code review and developer mentoring.
+
+#### Ufanet · Java Developer
+February 2025 – September 2025
+
 ERP and billing modules, service-operation automation, and support-system integrations.
 
-**Femina-IT · Java Developer**  
-January 2022 – September 2025  
+#### Femina-IT · Java Developer
+January 2022 – September 2025
+
 Progressed from junior to senior developer. Built internal automation and employee training systems, worked with production data and dashboards, and coordinated frontend, backend, DevOps, and 1C integration work.
 
-## Education & research
+</details>
 
-- **Central University**, 2025–2027 — Mathematics and Computer Science, backend development track.
-- **MIPT–UUST**, 2021–2025 — Software Engineering.
+<details>
+<summary><strong>Education & research</strong> — Central University, MIPT–UUST</summary>
+
+- **Central University, 2025–2027** — Mathematics and Computer Science, backend development track.
+- **MIPT–UUST, 2021–2025** — Software Engineering.
 - Research publications in scientific journals and a **Student Startup grant (2024)**.
+- Languages: **Russian · English (B2)**.
 
-**Languages:** Russian · English (B2)
-
-## Contact
-
-For professional discussions: [valerij@baturin03.ru](mailto:valerij@baturin03.ru) or [@Pe4EHKA on Telegram](https://t.me/Pe4EHKA).
+</details>
