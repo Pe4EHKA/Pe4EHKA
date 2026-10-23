@@ -1,34 +1,23 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png">
-  <img src="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png" alt="Валерий Батурин — backend-разработка" width="100%">
-</picture>
+# Валерий Батурин
 
-**Java / Kotlin Backend-разработчик** &nbsp; · &nbsp; [English](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.md) / Русский
+Java / Kotlin Backend-разработчик
+
+[English](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.md) · Русский
 
 Разрабатываю backend-системы для банков и автоматизации бизнеса: от бизнес-процессов и интеграций между сервисами до инфраструктуры, которая позволяет наблюдать за их работой в production.
 
-### Сейчас
+## Обо мне
 
 **WB Bank** · Java-разработчик  
 Банковские бизнес-процессы, оценка кредитоспособности, интеграции с внешними источниками данных и сервисы реферальных программ.
 
 Параллельно с работой учусь в **Центральном университете** на направлении «Математика и компьютерные науки», трек backend-разработки.
 
-> **Где происходит работа**  
-> Большая часть текущей разработки ведётся в корпоративных self-hosted GitLab. Этот профиль знакомит с моим опытом; публичная активность на GitHub отражает лишь часть работы.
+> Большая часть текущей разработки ведётся в корпоративных self-hosted GitLab. Публичная активность на GitHub отражает лишь часть моего опыта.
 
-### От бизнес-логики до production
+Работаю с **сервисами на Spring**, **событийными интеграциями** и **наблюдаемостью в production**. Также интегрирую RAG и LLM, провожу code review и помогаю разработчикам расти.
 
-| Проектирование и разработка | Интеграции и эксплуатация |
-| :--- | :--- |
-| Сервисы на Spring и REST API | Kafka и асинхронный обмен сообщениями |
-| Банковские, телеком- и производственные процессы | Аутентификация и интеграции бизнес-систем |
-| Модели данных, хранение и миграции | CI/CD, контейнеры, метрики и распределённая трассировка |
-
-Также занимаюсь **интеграцией RAG и LLM**, провожу code review, помогаю разработчикам расти и координирую работу backend-, frontend-, DevOps- и 1C-команд.
-
-### Технологии
+## Стек
 
 | Слой | Инструменты |
 | :--- | :--- |
@@ -38,7 +27,7 @@
 | **Поставка** | Docker · Compose · Swarm · Kubernetes · CI/CD |
 | **Качество и наблюдаемость** | JUnit · Mockito · Spring Test · Prometheus · Grafana · OpenTelemetry |
 
-### Опыт и образование
+## Опыт и образование
 
 <details>
 <summary><strong>Опыт работы</strong> — банки, телеком и внутренние системы бизнеса</summary>

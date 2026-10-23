@@ -1,34 +1,23 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png">
-  <img src="https://raw.githubusercontent.com/Pe4EHKA/Pe4EHKA/main/profile-light.png" alt="Valerij Baturin — backend engineering" width="100%">
-</picture>
+# Valerij Baturin
 
-**Java / Kotlin Backend Developer** &nbsp; · &nbsp; English / [Русский](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.ru.md)
+Java / Kotlin Backend Developer
+
+English · [Русский](https://github.com/Pe4EHKA/Pe4EHKA/blob/main/README.ru.md)
 
 I build backend systems for banking and business automation: from business workflows and service integrations to the infrastructure that keeps them observable in production.
 
-### Currently
+## About
 
 **WB Bank** · Java Developer  
 Banking workflows, credit assessment, external data integrations, and referral-program services.
 
 Alongside engineering, I study Mathematics and Computer Science at **Central University**, focusing on backend development.
 
-> **Where the work happens**  
-> Most of my current development lives in company-managed, self-hosted GitLab instances. This GitHub profile is an overview of my background; public activity here reflects only part of my work.
+> Most of my current work lives in company-managed, self-hosted GitLab instances. Public activity here reflects only part of my experience.
 
-### From business logic to production
+My work covers **Spring-based services**, **event-driven integrations**, and **production observability**. I also integrate RAG and LLM capabilities, review code, and mentor developers.
 
-| Design & build | Connect & operate |
-| :--- | :--- |
-| Spring-based services and REST APIs | Kafka and asynchronous messaging |
-| Banking, telecom, and manufacturing workflows | Authentication and integrations between business systems |
-| Data models, persistence, and migrations | CI/CD, containers, metrics, and distributed tracing |
-
-I also work on **RAG and LLM integration**, review code, mentor developers, and coordinate work across backend, frontend, DevOps, and 1C teams.
-
-### Engineering toolkit
+## Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -38,7 +27,7 @@ I also work on **RAG and LLM integration**, review code, mentor developers, and 
 | **Delivery** | Docker · Compose · Swarm · Kubernetes · CI/CD |
 | **Quality & visibility** | JUnit · Mockito · Spring Test · Prometheus · Grafana · OpenTelemetry |
 
-### Background
+## Background
 
 <details>
 <summary><strong>Experience</strong> — banking, telecom, and internal business systems</summary>
